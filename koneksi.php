@@ -10,7 +10,7 @@ $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $d
 
 // Setelah kode ini dijalankan, variabel $mysqli akan berisi koneksi ke database MySQL.
 // Koneksi ini dapat digunakan untuk melakukan operasi-operasi database seperti query, insert, update, dan lainnya.
-// Pastikan bahwa variabel-variabel yang telah didefinisikan (hostname, nama database, username, dan password) sesuai dengan pengaturan database yang Anda gunakan.
+// Pastikan bahwa variabel-variabel yang telah didefinisikan (hostname, nama database, username, dan password) sesuai dengan pengaturan database yang digunakan.
 
 // Jika koneksi berhasil, query SQL dapan dijalankan pada database yang telah dihubungkan.
 // Jika koneksi gagal, Anda perlu mengevaluasi kembali pengaturan yang digunakan untuk mengakses database.
